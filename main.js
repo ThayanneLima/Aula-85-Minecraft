@@ -5,8 +5,7 @@ playerX = 10;
 playerY = 10;
 
 blockImageWidth = 30;
-blockImageHeight = 30;
-
+blockImageHeight = 30; 
 var playerObject= "";
 var blockImageObject= "";
 
